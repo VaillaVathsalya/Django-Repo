@@ -2,7 +2,7 @@
 
 ## Start App
 
-RUn the following command from inside the 'Hello World' directory.
+Run the following command from inside the 'Hello World' directory.
 
 ```shell
 python manage.py runserver
